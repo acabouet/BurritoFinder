@@ -193,7 +193,6 @@ function convert() {
 }
 
 function getDirections() {
-    /*var home = new google.maps.LatLng(45.5451819, -122.594014);*/
     var burritos = new google.maps.LatLng(45.5047947, -122.6534852);
 
     var request = {
